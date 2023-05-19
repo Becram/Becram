@@ -7,7 +7,7 @@
 
 - **[GitHub](https://github.com/Becram)**
 - **[GitHub Repositories](https://github.com/Becram?tab=repositories)**
-- **[LinkedIn]((https://www.linkedin.com/in/bikram-dhoju-0ab66176/))**
+- **[LinkedIn](https://www.linkedin.com/in/bikram-dhoju-0ab66176/)**
 - **[My website](https://bdhoju.com/)**
   </tbody>
 </table>
