@@ -18,7 +18,7 @@
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=Becram)||
 |***PINNED REPOS***|***PINNED REPOS***|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=becram&repo=go-webhook&theme=react)](https://github.com/Becram/go-webhook )|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Becram&repo=k8s-api-client&theme=react)](https://github.com/Becram/k8s-api-client)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Becram&repo=private-ethereum&theme=react)](https://github.com/Becram/private-ethereum)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Becram&repo=kubernetes-webhook&theme=react)](https://github.com/Becram/kubernetes-webhook)||
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Becram&repo=private-ethereum&theme=react)](https://github.com/Becram/private-ethereum)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Becram&repo=kubernetes-webhook&theme=react)](https://github.com/Becram/kubernetes-webhook)||![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Becram&repo=go-db-exec&theme=react)](https://github.com/Becram/go-db-exec)||
 
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
